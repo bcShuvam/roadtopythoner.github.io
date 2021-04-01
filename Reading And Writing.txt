@@ -1,0 +1,9 @@
+r+ is used for reading and writing a file .
+It will throw an error if the file doesn't exist
+To use r+ , The file must exist.
+r+ is used for reading and writing a file .
+It will throw an error if the file doesn't exist
+To use r+ , The file must exist.
+r+ is used for reading and writing a file .
+It will throw an error if the file doesn't exist
+To use r+ , The file must exist.

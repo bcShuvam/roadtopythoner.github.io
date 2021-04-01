@@ -1,0 +1,10 @@
+Tis is first line
+This is second line
+This is third line
+
+f.tell() is used to count the character it has read tell noe
+
+f.seek() is used to reset the count or to start the count by passing the argument
+f.seek(0)
+f.seek(20)
+f.seek(30)
